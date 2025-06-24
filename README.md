@@ -13,7 +13,8 @@ Aspiro is an intelligent career recommendation system designed to help users dis
     
     🔐 User-friendly and responsive design
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
     Frontend: HTML, CSS, JavaScript, Vue.js
     
     Backend: Python (Flask)
@@ -22,7 +23,8 @@ Aspiro is an intelligent career recommendation system designed to help users dis
     
     Others: REST API for communication between frontend and backend
 
-🧩 How It Works
+🧩 How It Works:
+
     Users enter their current skills and interests into the application.
     
     The frontend communicates with the Flask backend via API requests.
@@ -34,6 +36,7 @@ Aspiro is an intelligent career recommendation system designed to help users dis
     The top recommended careers are displayed on the frontend.
 
 🧠 Why GNN?
+
     Graph Neural Networks are ideal for problems where entities and their relationships can be represented as graphs. In this project:
     
     Nodes represent careers and skills
@@ -48,7 +51,8 @@ Aspiro is an intelligent career recommendation system designed to help users dis
 
 
 
-🧪 Future Improvements
+🧪 Future Improvements:
+
     Add user login and profile management
     
     Introduce feedback mechanism to improve model predictions
